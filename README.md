@@ -28,4 +28,10 @@ pip install -r requirements.txt
 python3 mailbox.py
 ```
 
+## Developer
+
+[![Mohamed Rizad](https://github.com/riz4d.png?size=100)](https://github.com/riz4d) |
+----|
+[Mohamed Rizad](https://t.me/riz4d) |
+Author, Base, Bug Fixes  |
 
