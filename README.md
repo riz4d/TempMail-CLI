@@ -34,16 +34,12 @@ pip install -r requirements.txt
 python3 mailbox.py
 ```
 
-## Contributing
+### Contributing
 Contributing to the TempMail-CLI, Additions and innovations are allowed.
 Please contribute with these rules:
 - New Features 
 - Fixing Critical Bugs
-- Innovations That Don't Break the Integrity
-
-### Disclaimer
- - By using this tool you are accepting all the terms of this Legal Disclaimer,I accept that i didn't perform any illegal activities
-
+- Innovations That Don't Break the Integrity.
 
 ## Developer
 
@@ -52,3 +48,6 @@ Please contribute with these rules:
 [Mohamed Rizad](https://t.me/riz4d) |
 Author, Base, Bug Fixes  |
 
+
+### Disclaimer
+ - By using this tool you are accepting all the terms of this Legal Disclaimer,I accept that i didn't perform any illegal activities
