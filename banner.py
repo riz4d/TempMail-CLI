@@ -1,6 +1,6 @@
-
+from colorama import Fore
 def banner():
-  print(('''     
+  print(Fore.CYAN+'''     
     ########         ##     ##    ###    #### ##       
     ##               ###   ###   ## ##    ##  ##       
     ##               #### ####  ##   ##   ##  ##       
@@ -15,4 +15,5 @@ def banner():
     1 - Generate random mail address
     2 - Generate custom mail address
    
-  '''))
+  ''')
+ 
