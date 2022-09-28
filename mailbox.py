@@ -162,6 +162,8 @@ def main():
           domain='vddaz.com'
       else:
           print('Invalid entry')
+          banner()
+          main()
       enter_user=input('Enter a username : ')
       mailid=enter_user
       print('your mail is '+mailid+'@'+domain)
