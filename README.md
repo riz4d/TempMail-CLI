@@ -25,10 +25,16 @@ git clone https://github.com/riz4d/TempMail-CLI
 ##### Second step:
 
 ```sh
-pip install -r requirements.txt
+cd TempMail-CLI
 ```
 
 ##### Third step:
+
+```sh
+pip install -r requirements.txt
+```
+
+##### fourth step:
 
 ```sh
 python3 mailbox.py
