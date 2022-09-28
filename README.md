@@ -19,14 +19,31 @@ Open your favorite Terminal and run these commands.
 ##### First step:
 
 ```sh
-pip install -r requirements.txt
+git clone https://github.com/riz4d/TempMail-CLI
 ```
 
 ##### Second step:
 
 ```sh
+pip install -r requirements.txt
+```
+
+##### Third step:
+
+```sh
 python3 mailbox.py
 ```
+
+## Contributing
+Contributing to the TempMail-CLI, Additions and innovations are allowed.
+Please contribute with these rules:
+- New Features 
+- Fixing Critical Bugs
+- Innovations That Don't Break the Integrity
+
+### Disclaimer
+ - By using this tool you are accepting all the terms of this Legal Disclaimer,I accept that i didn't perform any illegal activities
+
 
 ## Developer
 
