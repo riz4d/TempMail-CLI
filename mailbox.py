@@ -14,6 +14,7 @@ domain=''
 id=''
 no_of_msgs=''
 filename=''
+filenam=''
 
 
 
@@ -39,7 +40,6 @@ def mailbox_msgs():
     if str(mailbox_json)=='[]':
         print('No Messages Where Recieved')
     else:
-        
         for i in range(no_of_msgs):
                   
                   id=mailbox_json[i]['id']
@@ -107,9 +107,12 @@ def dl_attachments():
 
 
 def main():
-
+    
+  global id
+  global domain
+  global mailid
   global checkmethod
-  checkmethod=str(input('  : '))
+  checkmethod=str(input(': '))
 
 
   if checkmethod=='1':
