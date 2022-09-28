@@ -14,7 +14,6 @@ domain=''
 id=''
 no_of_msgs=''
 filename=''
-filenam=''
 
 
 
@@ -110,7 +109,7 @@ def dl_attachments():
 def main():
 
   global checkmethod
-  checkmethod=str(input(': '))
+  checkmethod=str(input('  : '))
 
 
   if checkmethod=='1':
